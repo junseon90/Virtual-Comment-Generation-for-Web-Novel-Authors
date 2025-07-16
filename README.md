@@ -1,4 +1,5 @@
 # 📝 Web Novel Author’s Virtual Comment Assistant
+> AI-powered comment generator for web novels that analyzes story elements and simulates diverse reader personas to provide immersive, realistic feedback. By simulating diverse reader types, it helps authors receive immersive, automated responses to improve engagement and storytelling quality.
 
 ## 📌 서비스 개발 배경
 웹소설 작가들은 글이 길어질수록 감정선, 캐릭터성, 개연성 등을 자연스럽게 유지하는 데 어려움을 겪습니다. 그러나 독자 반응을 확인할 수 있는 플랫폼이 제한적이기 때문에, 지망생이나 작가들이 즉각적인 피드백을 받기도 쉽지 않습니다.이에 따라, 다양한 독자 유형의 반응을 자동으로 생성해줌으로써 작가에게 몰입감 있는 피드백을 제공하고, 웹소설 커뮤니티에 활력을 불어넣을 수 있는 댓글 생성 서비스를 기획·개발하게 되었습니다.
